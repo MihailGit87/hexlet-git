@@ -4,3 +4,6 @@ Hello, Hexlet! How are you?
 ![Java](https://github.com/MihailGit87/hexlet-git/blob/main/java.jpg)
 
 ![](https://asciinema.org/a/y1SF4AuE8kpEWp1bF6CXOvk9Q)https://asciinema.org/a/y1SF4AuE8kpEWp1bF6CXOvk9Q)
+
+### Example:
+[![asciicast](https://asciinema.org/a/y1SF4AuE8kpEWp1bF6CXOvk9Q.svg)](https://asciinema.org/a/y1SF4AuE8kpEWp1bF6CXOvk9Q)
